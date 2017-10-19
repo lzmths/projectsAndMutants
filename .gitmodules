@@ -1,0 +1,9 @@
+[submodule "vim"]
+	path = vim
+	url = https://github.com/vim/vim
+[submodule "Projects/openssl"]
+	path = Projects/openssl
+	url = https://github.com/openssl/openssl
+[submodule "Projects/vim"]
+	path = Projects/vim
+	url = https://github.com/vim/vim.git
